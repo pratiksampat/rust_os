@@ -6,6 +6,8 @@ It may not be perfect. It may not even be complete as I am only writing for myse
 For a comprehensive guide and detailed steps please go to https://os.phil-opp.com
 <hr>
 
+[![Build Status](https://github.com/pratiksampat/rust_os/workflows/Build%20Code/badge.svg?branch=02-Minimal-rust-kernel)](https://github.com/pratiksampat/rust_os/actions?query=branch%3A02-Minimal-rust-kernel)
+
 # 02: A minimal Rust kernel
 
 > Run with: `$ cargo xrun`
