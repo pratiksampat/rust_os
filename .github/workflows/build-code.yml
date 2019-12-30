@@ -34,7 +34,6 @@ jobs:
       run: |
         curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain nightly
         echo ::add-path::$HOME/.cargo/bin
-      if: runner.os == 'macOS'
 
     - name: "Print Rust Version"
       run: |
