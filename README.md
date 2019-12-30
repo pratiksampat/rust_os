@@ -6,6 +6,8 @@ It may not be perfect. It may not even be complete as I am only writing for myse
 For a comprehensive guide and detailed steps please go to https://os.phil-opp.com
 <hr>
 
+[![Build Status](https://github.com/pratiksampat/rust_os/workflows/Build%20Code/badge.svg?branch=01-running-bare-metal)](https://github.com/pratiksampat/rust_os/actions?query=branch%3A01-running-bare-metal)
+
 # 01: A bare-metal rust binary
 
 The standard library provides a lot of useful features like threads, files, heap memory, network etc.
